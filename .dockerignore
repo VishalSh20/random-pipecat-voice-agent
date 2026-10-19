@@ -1,0 +1,12 @@
+.git
+.gitignore
+.venv
+__pycache__/
+*.py[cod]
+.env
+README.md
+deploy/infra
+deploy/README.md
+*.md
+.commandcode
+.python-version

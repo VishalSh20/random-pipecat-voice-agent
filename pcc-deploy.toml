@@ -1,0 +1,8 @@
+agent_name = "voice-agent-101"
+secret_set = "voice-agent-secrets"
+region = "us-west"
+agent_profile = "agent-1x"
+
+[scaling]
+min_agents = 0
+max_agents = 10
